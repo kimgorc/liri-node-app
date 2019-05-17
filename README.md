@@ -54,8 +54,9 @@ Note: concert-this will defaulty to "Jonas Brothers" if user does not input an a
 4. do-what-it-says
 
     node liri.js do-what-it-says 
-    
-<img width="881" alt="Screen Shot 2019-05-17 at 2 58 15 PM" src="https://user-images.githubusercontent.com/46636249/57959097-07fed400-78b7-11e9-9e27-1d280bebbe21.png">
+
+<img width="727" alt="Screen Shot 2019-05-17 at 3 18 19 PM" src="https://user-images.githubusercontent.com/46636249/57959484-e56dba80-78b8-11e9-987c-12246efff491.png">
+
 
 Technologies Used:
 - JavaScript
