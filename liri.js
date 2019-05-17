@@ -100,8 +100,6 @@ if(command === "spotify-this-song") {
 	concertThis(query);
 } else if(command === "do-what-it-says") {
 	fs.readFile("random.txt", "utf-8", function(err, data) {
-		var command;
-		var query;
 
 		// If there is a comma, then we will split the string from command
 		if(data.indexOf(",") !== -1) {

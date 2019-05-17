@@ -45,7 +45,7 @@ Note: movie-this will defaulty to "Mr. Nobody" if user does not input a movie
     node liri.js concert-this 
 <img width="881" alt="Screen Shot 2019-05-17 at 2 58 15 PM" src="https://user-images.githubusercontent.com/46636249/57958393-8b6af600-78b4-11e9-86a1-65b50a9ee30d.png">
 
-Note: concer-this will defaulty to "Jonas Brothers" if user does not input an artist
+Note: concert-this will defaulty to "Jonas Brothers" if user does not input an artist
 
     node liri.js concert-this daya
 
@@ -55,6 +55,7 @@ Note: concer-this will defaulty to "Jonas Brothers" if user does not input an ar
 
     node liri.js do-what-it-says 
     
+<img width="881" alt="Screen Shot 2019-05-17 at 2 58 15 PM" src="https://user-images.githubusercontent.com/46636249/57959097-07fed400-78b7-11e9-9e27-1d280bebbe21.png">
 
 Technologies Used:
 - JavaScript
